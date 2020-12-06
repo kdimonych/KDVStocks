@@ -1,0 +1,3 @@
+[submodule "KDVStocksCoreLib.git"]
+	path = KDVStocksCoreLib
+	url = https://github.com/kdimonych/KDVStocksCoreLib.git
